@@ -2,8 +2,6 @@
 
 > **Self-Supervised Learning for Robust Deepfake Detection Under Domain Shift**
 >
-> CS671 — Deep Learning & Applications | Group 34 | Project P20
-> IIT Mandi
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
@@ -390,25 +388,6 @@ Predictions are averaged → improves cross-domain AUC by ~1-2%.
 | Framework | PyTorch 2.x |
 | Phase 1 runtime | ~3–5 hours |
 | Phase 2 training | ~40 min/epoch (~13 hrs full run) |
-
----
-
-## Team
-
-| Name | Roll Number |
-|------|-------------|
-| Shivam Goyal | B23231 |
-| Prakul Garg | B23223 |
-| Lakshya Goyal | B23212 |
-| Vidit Tank | B24409 |
-| Krupal Butala | B24315 |
-| Gaurav Girish Rathod | B24076 |
-| Ridhi Garg | B24348 |
-| Vaishnavi Garg | B24173 |
-| Tvisha Jaiswal | B24169 |
-
-**Mentors:** Bhavesh Kapil (d24023@students.iitmandi.ac.in) | Parul Chaudhary (s23109@students.iitmandi.ac.in)
-
 ---
 
 ## References
@@ -435,11 +414,7 @@ This project is released under the MIT License — see [LICENSE](LICENSE) file f
 If you use this code in your research, please cite:
 
 ```bibtex
-@misc{cs671group34_2026,
-  author = {Group 34, CS671},
-  title  = {Self-Supervised Learning for Robust Deepfake Detection Under Domain Shift},
-  year   = {2026},
-  publisher = {GitHub},
-  url    = {https://github.com/YOUR_USERNAME/deepfake-detection-ssl}
+@misc{
+  url    = {https://github.com/Kanav92/SSL_deepfake}
 }
 ```
